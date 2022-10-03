@@ -34,3 +34,5 @@
 /gframe/ygopro.aps
 /premake5
 /premake5.exe
+/gframe/boosters.cpp
+/gframe/boosters.h
